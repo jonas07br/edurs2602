@@ -18,6 +18,8 @@
   <a href = "mailto:edurs.2602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-eduardo-da-silva-ribeiro-462221233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-</div>
   
-![Snake animation](https://github.com/edurs2602/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/edurs2602/edurs2602/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+ 
