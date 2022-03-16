@@ -1,7 +1,5 @@
 ## Olá! eu sou o Luís Eduardo
 
-
-- 🔭 Atualmente estou na universidade
 - 🌱 Estudando React js
 - ⚡ Fun fact: Meu personagem favorito é o Batman
 
