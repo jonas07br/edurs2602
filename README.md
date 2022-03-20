@@ -1,6 +1,6 @@
 ## Olá! eu sou o Luís Eduardo
 
-- 🌱 Estudando React js
+- 🌱 Estudando React js, C, C# e typescript
 - ⚡ Fun fact: Meu personagem favorito é o Batman
 
 <div align="center">
