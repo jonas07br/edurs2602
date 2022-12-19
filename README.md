@@ -20,9 +20,14 @@
 <!-- ![Snake animation](https://github.com/edurs2602/edurs2602/blob/output/github-contribution-grid-snake.svg) -->
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="luiz-python" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="luiz-django" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="luiz-flask" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="luiz-solidity" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
   <img align="center" alt="luiz-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luiz-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luiz-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="luiz-docker" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="luiz-docker" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
  
