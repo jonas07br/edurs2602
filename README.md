@@ -1,7 +1,7 @@
-## Olá! eu sou o Luís Eduardo
+## HI! i am Luís Eduardo
 
-- 🌱 Estudando Desenvolvimento web
-- ⚡ Fun fact: Meu personagem favorito é o Batman
+- 🌱 Studying web development
+- ⚡ Fun fact: My favorite character is the Batman
 
 <div align="center">
   <a href="https://github.com/edurs2602">
