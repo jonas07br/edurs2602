@@ -3,13 +3,18 @@
 - 🌱 Studying web development
 - ⚡ Fun fact: My favorite character is the Batman
 
+
+---
 <div align="center">
-  <a href="https://github.com/edurs2602">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edurs2602&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurs2602&layout=compact&langs_count=7&theme=tokyonight"/>
+  <center>
+    <table>
+      <tr>
+          <td> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edurs2602&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true&count_private=true"/>
+          <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurs2602&layout=compact&langs_count=7&theme=tokyonight"/></td>
+      </tr>   
+    </table>
+  </center>
 </div>
-  
-<div> 
  
 
   
