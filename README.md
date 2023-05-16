@@ -25,7 +25,7 @@
 <br>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,solidity,ruby,rust,js,html,css /">
+  <img src="https://skillicons.dev/icons?i=python,cpp,solidity,ruby,rust,js,html,css /">
 </a>
 ---
 **Frameworks, technologies and others**
